@@ -41,9 +41,7 @@ counting word occurrences, and saving the statistics to the PostgreSQL database.
     ```
 ### Running the application
 
-1. Ensure you have the Word Cloud Docker setup running (refer to the [Word Cloud Docker repository](https://github.com/yourusername/word-cloud-docker) for more information).
-
-2. Run the application:
+1. Run the application:
     ```
     java -jar build/libs/word-cloud-worker-1.0.0.jar
     ```
